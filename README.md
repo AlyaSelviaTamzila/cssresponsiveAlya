@@ -4,60 +4,33 @@
     -Supaya web yang kita buat menyesuaikan diri agar sesuai dengan layar apa pun, sehingga membuat tampilan website tetap mulus di          antara berbagai media. Artinya, situsnya akan berubah sesuai layar yang dilihatnya. 
 2. Bagaimana cara membuat web dengan responsive? Jelaskan!
 
-    <html lang="en" dir="ltr">
-    
+    <html lang="en" dir="ltr">  
     <head>
-    
-        <meta charset="utf-8>">
-        
+        <meta charset="utf-8>"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
         <Title>Background</Title>
-        
         <style media="screen">
-        
         body{
-        
             background: blue;
-            
             color: white;
-            
         }
-        
-        @media only screen and (min-width: 600px){
-        
-            body{
-            
-                background: lightcoral;
-                
-                color:crimson;
-                
-            }
-            
-        }
-        
-        @media only screen and (min-width: 768px){
-        
-            body{
-            
-                background: darkgoldenrod;
-                
-                color: azure;
-                
-            }
-            
-        }
-        
-        </style>
-        
-    </head>
-    
-    <body>
-    
-        <h1>Welcome to SMK Telkom Malang</h1>
-        
-    </body>
-    
+        @media only screen and (min-width: 600px){       
+            body{            
+                background: lightcoral;                
+                color:crimson;          
+            }           
+        }       
+        @media only screen and (min-width: 768px){        
+            body{          
+                background: darkgoldenrod;             
+                color: azure;              
+            }            
+        }        
+        </style>        
+    </head>    
+    <body>    
+        <h1>Welcome to SMK Telkom Malang</h1>       
+    </body>    
   </html>
   
   
