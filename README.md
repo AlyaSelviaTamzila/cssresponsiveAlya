@@ -3,8 +3,10 @@
 
     -Supaya web yang kita buat menyesuaikan diri agar sesuai dengan layar apa pun, sehingga membuat tampilan website tetap mulus di          antara berbagai media. Artinya, situsnya akan berubah sesuai layar yang dilihatnya. 
 2. Bagaimana cara membuat web dengan responsive? Jelaskan!
+
     -<meta name="viewport" content="width=device-width, initial-scale=1.0">
     merupakan syntax yang berfungsi untuk menampilkan web sesuai dengan layar.
+    
     - @media only screen and (min-width: 600px){
             body{
             }
@@ -22,6 +24,8 @@
       -Memperhatikan/mengatur styling elemen HTML pada CSS.
       
       -Membuat Media Query di CSS Untuk digunakan sebagai filter terhadap lebar layar pengguna.
+      
+      
       
       
       
