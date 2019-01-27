@@ -54,3 +54,9 @@
       -menentukan struktur HTML website, website biasanya terdiri dari header, content, sidebar serta footer.
       
       -Membuat Media Query di CSS Untuk Memerintahkan Browser.
+      
+      
+      
+      HASIL LATIHAN
+      LATIHAN 1
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/1.jpg)
