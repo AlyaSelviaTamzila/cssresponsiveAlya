@@ -60,3 +60,42 @@
       HASIL LATIHAN
       LATIHAN 1
       ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/1.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/2.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/3.jpg)
+      
+      LATIHAN 2
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/4.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/5.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/6.jpg)
+      
+      LATIHAN 3
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/7.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/8.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/9.jpg)
+      
+      LATIHAN 4
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/10.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/11.jpg)
+      
+      ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/12.jpg)
+      
+     LATIHAN 5
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/13.jpg)
+     
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/14.jpg)
+     
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/15.jpg)
+     
+     LATIHAN 6
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/16.jpg)
+     
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/17.jpg)
+     
+     ![alt text](https://github.com/AlyaSelviaTamzila/cssresponsiveAlya/blob/master/18.jpg)
